@@ -1,0 +1,26 @@
+.project-image-landscape{
+    padding-left: 2pt;
+    padding-right: 2pt;
+    padding-bottom: 2pt;
+    width: 250;
+    height: 150px;
+    
+}
+
+.project-image-landscape img{
+    width: 100%;
+    height: auto;
+}
+
+.project-image-portrait{
+    padding-left: 4pt;
+    padding-right: 4pt;
+    width: 150px;
+    height: 250px;
+    
+}
+
+.project-image-portrait img{
+    width: auto;
+    height: 100%;
+}
